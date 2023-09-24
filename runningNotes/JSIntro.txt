@@ -1,0 +1,36 @@
+
+
+Playwright --> javascript and Typescript , java, .net,python 
+
+Javascript and Typescript
+
+
+Selenium --> web
+
+
+Javascripting --> 
+
+node js install --> get all js related lib
+Vscode setup --> IDE to code 
+
+
+
+
+Playwright --> Automation --> javascript or typescript 
+
+
+
+Javascript
+Typescript 
+Playwright UI
+API 
+
+
+Realtime --> Project or framework --> 
+
+reporting -- playwright and Allure 
+ci/cd --jenkins
+
+
+
+

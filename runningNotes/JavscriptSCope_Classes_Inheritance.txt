@@ -1,0 +1,76 @@
+
+
+Javascript scope :- 
+
+
+Class block --> Global scope 
+Function block --> 
+Block scope --> {}
+
+
+Parentclass{
+function1()
+function2()
+}
+
+
+anotherClass extends Parentclass{
+function3()
+function4()
+}
+
+Testfile :- 
+let an= new anotherClass();
+an.function3();
+an.function1();
+
+
+
+classb extends anotherClass{
+function3()
+function4()
+}
+
+
+
+// sync /Async
+
+sync --> 
+
+hi 
+this is kumar
+welcome to js class
+
+
+async -->
+
+hi 
+async --> this is kumar
+welcome to js class
+
+async 
+
+promise --> we have three PromiseState:-  pending , fulfilled(resloved), rejected(reject)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,38 @@
+
+
+    Playwright Arch 
+	
+	
+	Selenium --> Browser Support is good 
+	
+	Selenium --> HTTP protocal --> 
+	
+	UI --> HTML, CSS and JS/TS , jS/TS --> React , Angular, Vuejs , nextjs
+
+	Backend/server---> API or https --> java dotnet, python , rube
+	
+	DB--> mssql , postgres,mangodb, --> Sp 
+	
+	
+	Websocket --> establish the connection --> it communicates so many time --> finally it kills when ur entire code or test is Done 
+	
+	
+	
+	https--> driver.findelement(By.xpath("")).click() >> << thread is done
+	https--> driver.findelement(By.xpath("")).sendkeys () >> << thread is done
+
+	
+	Websocket --> establish the connection 
+	
+	
+	page.locator(xpath("")).click() 
+	page.locator(xpath("")).fill() 
+	
+	
+	then kill the connection 
+	
+	
+	
+	
+	
+	
