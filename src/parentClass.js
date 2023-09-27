@@ -10,7 +10,12 @@ class ParentClass{
 
     }
 
-    dummyAddition() {
+    async dummyAddition() {
+        
+        return this.parentNum1+this.parentNum2
+    }
+
+    async dummyAddition2() {
         
         return this.parentNum1+this.parentNum2
     }

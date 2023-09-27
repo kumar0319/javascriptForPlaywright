@@ -1,5 +1,5 @@
 
-class demoClass{
+class demoClassss{
 
    // constructor(){}
     constructor(num3, num4) {
@@ -22,4 +22,4 @@ class demoClass{
 
     
 }
-module.exports = demoClass;
+module.exports = demoClassss;

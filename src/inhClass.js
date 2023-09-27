@@ -18,3 +18,7 @@ module.exports = childClass2;
 let childC = new childClass2(50, 50)
 
 console.log(childC.dummyAddition());
+
+console.log(childC.dummyAddition2());
+
+

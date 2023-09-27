@@ -1,0 +1,32 @@
+
+functions
+
+async and sync 
+
+promise 
+
+relove and reject 
+
+we need take this async and sync to real practice level 
+
+
+async and sync functions
+whats use of it 
+what is await and where do we use await and its limitations 
+Arrow functions
+
+async --> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+

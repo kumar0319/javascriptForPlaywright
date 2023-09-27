@@ -1,25 +1,30 @@
 
-var demoClass = require('./demoClass.js');
+// var demoClassss = require('./demoClass.js');
+
+var ApnService = require('./asnc.js');
 // var arraysDemo = require ('./arraysDemo.js');
 
 
-class childClass extends demoClass{
+class childClass extends ApnService{
 
 
-   
-let ction = async myFunction()
-   {
-        return "Hello";
-}
+  async getDataFromAnotherMethod() {
+    let data = await this.sendNotification();
+        return data;
+    }
+ 
+  async  getdata() {
+        
+        return "random data"
+    }
     
 
 
 }
 
 let objInhClass = new childClass();
-// var k = objInhClass.userAddition(10, 50)
-// console.log(k);
 
-var kk = await objInhClass.myFunction()
-console.log(kk);
-
+let hm = objInhClass.getDataFromAnotherMethod().then((value) => {
+  console.log(value)
+},);
+console.log(hm);
