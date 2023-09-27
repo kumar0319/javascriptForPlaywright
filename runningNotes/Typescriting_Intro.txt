@@ -1,0 +1,16 @@
+Javascript -- Arrow Functions 
+
+
+
+
+
+
+Typescript ---> internally --> creats js --> execution 
+
+It is syntactic superSet of javascript which adds static typing 
+
+why ?
+
+myfunction(abc,xyz){
+
+}
