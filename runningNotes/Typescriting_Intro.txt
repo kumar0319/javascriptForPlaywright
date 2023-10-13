@@ -14,3 +14,52 @@ why ?
 myfunction(abc,xyz){
 
 }
+
+
+
+Typescript Intro and Complier :- 
+
+Javascript --> code --> org--> store the mem --> turn binary lang --> cpu --> will exe --> output 
+
+
+Typescript---tscompile -->tsconfig.--> convert the ts file to js--> Javascript --> code --> org--> store the mem --> turn binary lang --> cpu --> will exe --> output 
+
+
+Type Assignment :-
+
+explicit :-  
+
+let varName: string ;
+
+let num1: number;
+
+var hu: any;
+
+
+implicit
+
+let varname;
+
+varname ='string'
+varname=123123
+
+
+https://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@github.com/life360/web-cms-ui-tests.git
+
+
+
+https://github.com/life360/web-cms-ui-tests.git
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,5 @@
+
+let abc: string;
+
+abc = 'kumar'
+

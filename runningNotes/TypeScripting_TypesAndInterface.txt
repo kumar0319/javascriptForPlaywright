@@ -1,0 +1,31 @@
+Types :- 
+
+number 
+string 
+boolean 
+
+
+car --> 4 weels , top should closed, flexable stearing 
+
+
+driver --> getdriver, setdriver , closeDriver
+
+chomeDriver
+FFdriver
+iedriver
+
+
+1. Create an interface to car and implement the vlovocar,mgcar, anycar
+
+
+
+
+
+
+
+
+
+
+
+
+
